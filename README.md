@@ -1,4 +1,4 @@
-# Solutions
+# Possible/Suggested Solutions
 Solutions to selected labs will be uploaded here for your study and reference.
 
 ## Download modules and run your node.js codes
